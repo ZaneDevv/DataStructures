@@ -50,4 +50,4 @@ That is how queues work with data: when we add something new to a queue, it will
 # Set
 
 In this case, sets follow the same rules as sets in mathematics: there cannot be repeated values. Each time you add something to a set, it might not be added if that values was alerady on the set.<br>
-Sometimes we also add some functions to work with this data structures as if it was a set in mathematics using the union `(A∪B)` and intersection `(A∩B)` operations.
+Sometimes we also add some functions to work with this data structure as if it was a set in mathematics using the union `(A∪B)` and intersection `(A∩B)` operations.
