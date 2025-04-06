@@ -3,7 +3,7 @@
 I have been wondering how all data structures work inside, so I decided to make my own library and deal with them by myself.
 As a method to study it, I will expain here each one of them.
 
-It is important to highlight the fact that this library has no the intention to be used in serious projects, it has only the goal to learn.
+It is important to highlight the fact that this library has no the intention to be used in serious projects, it has only the goal of learning.
 That is being said that, let's start explaining each one of them.
 
 # Array
