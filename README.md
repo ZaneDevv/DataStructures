@@ -18,7 +18,7 @@ It makes that getting the data saved in each block is extremely fast because wit
 
 # Vector
 
-As you might notice, we can not change easily how many things we want to save in the array, so it will be important to create another data structure whose size changes dinamically depending of the amount of data we are saving in the structure.<br>
+As you might notice, we cannot change easily how many things we want to save in the array, so it will be important to create another data structure whose size changes dinamically depending of the amount of data we are saving in the structure.<br>
 This data structure has a name that can change a bit. For instance, in `C#` it is named as `List` instead of `Vector`.<br>
 To create this data structure, each time we want to add something, we need to check if we run out of space. If it is the case, we will seak for a new space in memory to allocate all the data, copy the data to this new space and then, remove the old space allocated.<br>
 This is quite more hard to compute than the array due to the process we need to do each time we need more space, but getting any data in here is as easy as the array due to the fact that we can keep using the same formula.<br>
