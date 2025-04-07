@@ -10,7 +10,7 @@ struct Node {
 	Node* StartNode = nullptr;
 
 	/*
-	* @brief Creates a new node woth the value set
+	* @brief Creates a new node with the value set
 	* @param Value to set on the node
 	* @author ZaneDevv
 	*/
