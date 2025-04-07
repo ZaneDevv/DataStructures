@@ -37,7 +37,7 @@ This is quite harder to compute because each time we need to get the nth value i
 
 # Stack
 
-Stacks are quite similar and when we are programming, the memory we are using by making variables and functions, is saved in stacks most of the time. Let's break it down:<br>
+Stacks are quite simple and when we are programming, the memory we are using by making variables and functions is saved in stacks most of the time. Let's break it down:<br>
 Let's imagin a stack of plates for instance, we you add a new plate, you add it on the first plate and this new plate turns into the new first plate and, when we remove a plate, we remove the first plate tunring the second plate into the new first plate.<br>
 This behaviour is exactly what we are doing here: when we save data in a stack, each time we add a new one we add it in the first position and, each time we remove data in the stack, we also remove the first one.<br>
 
