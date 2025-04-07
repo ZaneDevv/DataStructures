@@ -25,7 +25,7 @@ This is quite more hard to compute than the array due to the process we need to 
 
 # Linked List
 
-This data structure changes the logic to avoid running out of space. Each time we add a new data in the structure, we create a `node` with some information:
+This data structure changes the logic to avoid running out of space. Each time we add a new data in the structure, we create a `node` with the next information:
 
 <ul>
 	<li> The previous node. </li>
